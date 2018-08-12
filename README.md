@@ -1,2 +1,2 @@
 # RPiStepperCode
-PiMotor Stepper Class Code is merged with RPi Stepper Test Code
+SBC PiMotor Stepper Class Code is merged with RPi Stepper Test Code
